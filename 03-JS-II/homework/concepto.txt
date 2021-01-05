@@ -1,0 +1,4 @@
+For es un bucle que sirve para realizar tareas repetitivas, hasta que nos devuelva lo que estamos buscando, y para que se pare cuando no se cumplan los condiciones planteadas. Nos permite ahorrarnos la tarea de repetir las operaciones con cada numero, y se encarga de que el sistema las haga por nosotros.
+
+Los operados logicos son operadores para datos booleanos, analizando dos expresiones, y dependiendo de los valores de estas, nos dara una respuesta. Los operadores logicos && devolveran 'true' siempre y cuando las expresiones sean correctas. En caso de solo una sea verdadera, los operadores logicos devolveran 'false'.
+En el caso de los operadores OR(||), solo es necesario que una de las expresiones sea correcta para que devuelva 'true', y solo sera 'false' en caso de que ambas sean falsas.
