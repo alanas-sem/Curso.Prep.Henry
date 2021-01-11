@@ -1,0 +1,9 @@
+Los objetos son elementos de Javascript que guardan informacion sobre si mismos. Esta informacion puede estar almacenada en cualquier tipo de dato. 
+
+Las propiedades son las categorias a las que se les atribuye un valor dentro de un objeto. Con ellas podemos analizar cierta informacion especifica de algun aspecto de varios objetos que posean las mismas propiedades.
+
+Los metodos son funciones definidas en una propiedad dentro de un objeto. Gracias a ellos, podemos lograr que el programa realice una accion cuando invoquemos al objeto, o querramos ver sus componnetes.
+
+Los blucles for...in nos permiten acceder a todas las propiedades de un objeto, ya que estos, a diferencia de los arrays, no poseen un indice que ordene las clave valor contenidos en ellos.
+
+La notacion de puntos y de corchetes son formas de acceder a las propiedades de un objeto. Poseen una logica bastantr similar, y se diferencian en que la notacion por puntos es mas literal que la notacion por corchetes, por lo que exige una mayor precision a la hora de declarar las propiedades y sus valores para no confundirlas con otra informacion contenida en el objeto.
