@@ -1,0 +1,3 @@
+Un prototype es una manera de establecer un metodo en una clase, sin la necesidad de estar repitiendo la declaracion del mismo con cada objeto, y ahorrando de esta manera memoria. A cada clase podemos hacer referencia a su prototipo, y de alli obtener todos los metodos que en ella se han guardado.
+
+Un constructor (de clases) nos permiten redactar todo el codigo de una clase, y en el caso de cambiar algunos de los elementos o propiedades de ella, todo lo que este relacionado a ellos, ya sea un metodo u otra propiedad, tambien se alterara sin tener que hacerlo manualmente en todos los casos.
