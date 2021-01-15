@@ -1,17 +1,18 @@
 h1 {
-    color:fuchsia;
+    color:red;
 }
 
 img {
   width:400px;
+  height:300px;
 }
 
-.thirdDiv {
+#thirdDiv {
   height:600px;
   width:500px;
-  background:red;
+  background-color:red;
   padding:50px;
-  border-width:50;
+  border-width:10px;
   border-color:blue ;
   border-style: solid;
 
@@ -20,3 +21,5 @@ img {
   font-size:18px;
   margin:50px;
 }
+
+  
